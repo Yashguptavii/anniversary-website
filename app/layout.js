@@ -1,3 +1,5 @@
+import './globals.css'
+
 export const metadata = {
   title: 'Yash & Vandana | Anniversary',
   description: 'A romantic anniversary celebration for Yash and Vandana.',
